@@ -1,0 +1,10 @@
+{
+  "extends": ["unobtrusive", "unobtrusive/import", "unobtrusive/react"],
+  "env": {
+    "browser": true,
+    "es6": true
+  },
+  "globals": {
+    "vox": false
+  }
+}
